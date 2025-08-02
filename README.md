@@ -35,7 +35,7 @@
 ---
 
 ## 📄 Resume
-📥 [Download My Full CV (PDF)]((https://github.com/deepanredhat/CV/blob/main/Resume-Linux_DevOps_PlatformEngineering_arch.pdf))
+📥 [Download My Full CV (PDF)](https://github.com/deepanredhat/CV/blob/main/Resume-Linux_DevOps_PlatformEngineering_arch.pdf)
 
 ---
 
