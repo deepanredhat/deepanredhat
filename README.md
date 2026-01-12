@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Deepan Muthuvairavan
 
-**Principal DevOps Engineer | Infrastructure Architect | Linux Specialist**  
+**Senior DevOps / Platform Engineer with 18+ years of experience in Linux, cloud infrastructure, automation, and platform operations.**  
 📍 Based in Scotland, UK | 🌐 Open to remote and hybrid roles | 💼 Immediate Start – No sponsorship required
+I focus on secure access to private cloud workloads, reliability, and automation-first engineering.
 
 ---
 
@@ -15,23 +16,28 @@
 
 ---
 
-## 🛠️ Highlighted Projects
+## What I do
+- Secure cloud access patterns (VPN / bastion / identity-based access)
+- Linux platform engineering and production operations
+- Infrastructure as Code and automation (Terraform, Ansible)
+- API-driven automation (FastAPI)
+- Secrets management and security-by-design (Vault)
 
-### ⚙️ FastAPI + Terraform + GitHub Actions (Multi-Cloud DevOps Platform)
-- Created FastAPI-driven automation API for managing VM lifecycle
-- Provisioned resources using Terraform for GCP, Azure
-- Integrated secure GitHub Actions CI/CD workflows with Cloud Run and Artifact Registry
+## Selected Portfolio Projects
+1) **GCP Secure Access Architecture**  
+   Private access to VMs using WireGuard VPN + Bastion + OS Login + firewall hardening.
 
-### 🐧 BladeLogic to Ansible Migration (1000+ UNIX Servers)
-- Migrated patching infra using Ansible with custom playbooks
-- Developed Jenkins pipelines to orchestrate patching & rollout
-- Delivered full CI/CD and monitoring integration
+2) **FastAPI Infrastructure Automation**  
+   API-based control layer for infrastructure operations (safe patterns, validation, logging).
 
-### ☁️ Multi-Cloud Landing Zone & Cost Optimization (AWS & Azure)
-- Implemented Azure Landing Zones & Policy-as-Code
-- Built GitLab pipelines to clean unused AWS resources with Lambda + Cloud Custodian
-- Automated email notifications and audit logs
+3) **Vault Labs**  
+   Policies, auth methods, and secure secret lifecycle patterns (lab + reference implementations).
 
+4) **Linux Hardening Playbooks**  
+   SSH hardening, baseline security controls, and operational reliability.
+
+## Tech
+Linux • GCP/Azure/AWS • Kubernetes/OpenShift • Terraform • Ansible • CI/CD • FastAPI • Vault • VMware
 ---
 
 ## 📄 Resume
