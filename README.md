@@ -41,7 +41,7 @@ Linux • GCP/Azure/AWS • Kubernetes/OpenShift • Terraform • Ansible • C
 ---
 
 ## 📄 Resume
-📥 [Download My Full CV (PDF)](https://github.com/deepanredhat/CV/blob/main/Resume-Linux_DevOps_PlatformEngineering_arch.pdf)
+📥 [Download My Full CV (PDF)](https://github.com/deepanredhat/CV/blob/main/Deepan_M_Linux_Cloud_Platform_Operations_Resume_Pages_FINAL_UK.pdf)
 
 ---
 
